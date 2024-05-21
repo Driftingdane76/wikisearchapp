@@ -1,0 +1,7 @@
+# Project exclude paths
+# PyCharm settings
+*.idea/
+# Django settings
+*/settings.py
+/venv/
+db.sqlite3
